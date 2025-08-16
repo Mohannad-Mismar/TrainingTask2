@@ -1,0 +1,232 @@
+EEID,Full Name,Job Title,Department,Business Unit,Gender,Ethnicity,Age,Hire Date,Annual Salary,Bonus %,Country,City,EmploymentRating,DaysOfAbsence,EducationLevel,CertificationsEarned,Predicted_bonus
+E03247,Aaliyah Mai,Vice president,IT,Speciality Products,Female,Asian,57,11/11/2016,246589,0.33,United States,Phoenix,7,16,Bachelor's,0,0.2551713333333343
+E04888,Elijah Henry,Manager,IT,Corporate,Male,Caucasian,32,1/3/2014,127148,0.1,United States,Miami,7,16,Master's,1,0.21127999999999977
+E02216,Caleb Marquez,IT systems architect,IT,Research & Development,Male,Latino,29,10/15/2019,66819,0.0,Brazil,Rio de Janerio,7,16,Bachelor's,2,0.18381600000000034
+E02861,Daniel Perry,Enterprise architect,IT,Research & Development,Male,Caucasian,62,4/15/2001,80921,0.0,United States,Columbus,5,16,Bachelor's,1,0.3365280000000022
+E04972,Sophie Oh,Network engineer,IT,Corporate,Female,Asian,29,11/9/2017,63985,0.0,United States,Miami,8,16,Bachelor's,3,0.22776800000000066
+E03223,Ethan Joseph,IT coordinator,IT,Research & Development,Male,Caucasian,45,5/28/2018,49219,0.0,United States,Columbus,8,16,PhD,3,0.17240000000000053
+E04359,Layla Salazar,Solutions architect,IT,Corporate,Female,Latino,59,3/19/2014,90901,0.0,United States,Seattle,6,16,PhD,1,0.23885666666666672
+E03824,Jameson Martin,Technical architect,IT,Corporate,Male,Caucasian,37,2/15/2008,71695,0.0,UAE,Abu Dhabi,9,16,Master's,2,0.1307646666666675
+E02770,Liliana Do,Service desk analyst,IT,Manufacturing,Female,Asian,30,3/29/2019,86774,0.0,China,Chengdu,8,16,Master's,0,0.22001333333333403
+E02798,Charles Henderson,Systems analyst,IT,Speciality Products,Male,Caucasian,48,2/11/2002,43080,0.0,United States,Austin,10,16,Master's,3,0.2166320000000006
+E01611,Gabriella Zhu,Computer systems manager,IT,Speciality Products,Female,Asian,36,11/29/2014,88730,0.08,China,Chongqing,8,16,Bachelor's,4,0.13370000000000054
+E02833,Adrian Fernandez,Systems analyst,IT,Research & Development,Male,Latino,45,8/23/2001,54994,0.0,United States,Columbus,5,16,Bachelor's,0,0.29780400000000157
+E01148,Scarlett Kumar,Systems analyst,IT,Corporate,Female,Asian,55,1/7/2009,47032,0.0,United States,Columbus,9,16,Master's,2,0.1307646666666675
+E04504,Jameson Alvarado,Enterprise architect,IT,Manufacturing,Male,Latino,47,3/14/1999,92897,0.0,Brazil,Sao Paulo,6,15,Bachelor's,2,0.21787819047619095
+E00671,Miles Cho,Systems analyst,IT,Speciality Products,Male,Asian,47,3/10/1999,49404,0.0,China,Beijing,7,15,Bachelor's,3,0.19644000000000023
+E00523,Daniel Jordan,Network administrator,IT,Corporate,Male,Caucasian,58,7/26/1993,69260,0.0,UAE,Abu Dhabi,8,15,Bachelor's,3,0.31195999999999874
+E00813,Autumn Joseph,Enterprise architect,IT,Corporate,Female,Black,39,5/9/2018,73317,0.0,United States,Miami,8,15,PhD,2,0.31113666666666734
+E03292,Cora Evans,Computer systems manager,IT,Speciality Products,Female,Black,45,3/26/2018,86478,0.06,United States,Austin,5,15,Bachelor's,2,0.236588904761905
+E04378,Ezra Simmons,Network administrator,IT,Manufacturing,Male,Black,31,5/7/2016,71192,0.0,United States,Austin,10,15,Bachelor's,3,0.2894153333333343
+E03058,Robert Wright,Technical architect,IT,Manufacturing,Male,Caucasian,30,6/14/2015,67489,0.0,United States,Chicago,6,15,Master's,4,0.266580000000001
+E03807,Kennedy Do,Computer systems manager,IT,Manufacturing,Female,Asian,42,10/15/2005,67398,0.07,United States,Phoenix,5,15,PhD,4,0.27318471428571617
+E01496,Ava Ortiz,Enterprise architect,IT,Manufacturing,Female,Latino,53,7/20/2004,65702,0.0,United States,Columbus,8,15,PhD,4,0.20501833333333405
+E03354,Silas Estrada,IT systems architect,IT,Corporate,Male,Latino,49,6/24/2016,68426,0.0,Brazil,Rio de Janerio,6,15,Bachelor's,3,0.19090152380952402
+E01387,Cora Zheng,Director,IT,Manufacturing,Female,Asian,27,1/3/2018,167100,0.2,China,Chengdu,8,15,Bachelor's,0,0.2653706666666669
+E02987,Mateo Harris,Manager,IT,Corporate,Male,Caucasian,30,8/5/2017,119906,0.05,United States,Columbus,8,15,Bachelor's,0,0.2653706666666669
+E01429,Dylan Wilson,Network administrator,IT,Research & Development,Male,Caucasian,48,9/27/2006,76505,0.0,United States,Seattle,7,15,PhD,4,0.18162300000000073
+E00981,Miles Thao,System administrator,IT,Corporate,Male,Asian,57,6/26/2003,63318,0.0,United States,Columbus,5,15,Master's,3,0.2646599999999991
+E02428,Connor Luu,Computer systems manager,IT,Speciality Products,Male,Asian,35,5/3/2016,73899,0.05,China,Chengdu,10,15,Master's,0,0.2878088571428579
+E00102,Riley Rojas,Network architect,IT,Speciality Products,Female,Latino,36,1/21/2021,90333,0.0,Brazil,Rio de Janerio,6,15,Bachelor's,2,0.21787819047619095
+E02274,Isabella Bailey,Network administrator,IT,Manufacturing,Female,Caucasian,36,8/23/2010,61310,0.0,United States,Phoenix,6,15,PhD,4,0.2223003333333345
+E00869,Nova Lin,Cloud infrastructure architect,IT,Manufacturing,Female,Asian,33,10/21/2017,69332,0.0,United States,Columbus,9,15,Bachelor's,1,0.14635999999999935
+E00640,Paisley Bryant,Cloud infrastructure architect,IT,Manufacturing,Female,Black,37,4/27/2016,91400,0.0,United States,Chicago,10,15,Bachelor's,4,0.2935963333333344
+E02221,Julian Delgado,Systems analyst,IT,Speciality Products,Male,Latino,29,5/19/2016,52693,0.0,Brazil,Rio de Janerio,8,15,Bachelor's,0,0.2653706666666669
+E00156,Madelyn Scott,Sr. manger,IT,Research & Development,Female,Caucasian,46,1/9/2002,148035,0.14,United States,Phoenix,5,15,Bachelor's,0,0.21153257142857096
+E04762,Audrey Richardson,Director,IT,Manufacturing,Female,Caucasian,46,10/6/2018,166259,0.17,United States,Chicago,8,15,Bachelor's,4,0.12418000000000073
+E02185,Wyatt Rojas,Computer systems manager,IT,Corporate,Male,Latino,32,3/20/2013,79921,0.05,United States,Austin,10,14,Bachelor's,1,0.2343519999999999
+E01525,Charlotte Ruiz,Computer systems manager,IT,Manufacturing,Female,Latino,32,10/2/2017,61886,0.09,Brazil,Rio de Janerio,7,14,Bachelor's,4,0.15573000000000037
+E01281,Isaac Mitchell,Network architect,IT,Speciality Products,Male,Black,46,6/10/2005,67374,0.0,United States,Austin,6,14,Bachelor's,3,0.18879685714285724
+E04639,Luna Taylor,Network administrator,IT,Manufacturing,Female,Caucasian,47,7/28/2018,87806,0.0,United States,Seattle,8,14,Bachelor's,0,0.24609000000000003
+E01524,Ian Miller,Computer systems manager,IT,Corporate,Male,Black,31,10/13/2016,63744,0.08,United States,Austin,8,14,Bachelor's,4,0.19939666666666694
+E01952,Everett Lee,Network administrator,IT,Research & Development,Male,Asian,45,2/26/2010,90770,0.0,United States,Columbus,5,14,Master's,1,0.19640723809523977
+E01958,Angel Lin,Network administrator,IT,Manufacturing,Male,Asian,27,12/24/2020,92321,0.0,United States,Chicago,6,14,Master's,0,0.21593333333333373
+E03349,Anna Mehta,Cloud infrastructure architect,IT,Speciality Products,Female,Asian,32,1/5/2020,78844,0.0,United States,Seattle,5,14,PhD,3,0.24741819047619104
+E04732,Benjamin Ramirez,Network engineer,IT,Research & Development,Male,Latino,48,7/27/2005,68987,0.0,United States,Chicago,10,14,Bachelor's,0,0.28956166666666766
+E04079,Christopher Butler,Network architect,IT,Manufacturing,Male,Caucasian,41,10/5/2017,67468,0.0,United States,Miami,10,14,Bachelor's,2,0.2620853333333335
+E01339,Jeremiah Hernandez,Network engineer,IT,Manufacturing,Male,Latino,26,4/14/2019,74467,0.0,United States,Columbus,7,14,Bachelor's,2,0.2965700000000001
+E01550,Ruby Barnes,Manager,IT,Corporate,Female,Caucasian,27,7/1/2020,119746,0.1,United States,Phoenix,7,13,Master's,0,0.2160616666666663
+E02074,Nora Brown,Enterprise architect,IT,Manufacturing,Female,Caucasian,32,2/11/2014,99575,0.0,United States,Austin,8,13,Bachelor's,4,0.20481333333333349
+E04931,Zoe Romero,Network architect,IT,Manufacturing,Female,Latino,32,10/5/2021,88072,0.0,Brazil,Sao Paulo,7,13,Bachelor's,1,0.2682333333333329
+E01361,Emma Hill,IT coordinator,IT,Manufacturing,Female,Caucasian,54,12/27/2016,41673,0.0,United States,Miami,5,13,Master's,2,0.28029785714285854
+E02333,Jaxson Wright,Service desk analyst,IT,Manufacturing,Male,Black,54,12/28/2010,64417,0.0,United States,Columbus,10,13,Bachelor's,1,0.2938106666666675
+E00870,Evelyn Liang,Service desk analyst,IT,Speciality Products,Female,Asian,40,6/26/2013,69096,0.0,United States,Seattle,10,13,Bachelor's,4,0.3205058571428575
+E03090,Penelope Choi,Technical architect,IT,Speciality Products,Female,Asian,49,9/10/2010,72826,0.0,China,Beijing,6,13,Master's,0,0.20559599999999997
+E04538,Adeline Yang,Cloud infrastructure architect,IT,Corporate,Female,Asian,53,7/20/2011,86173,0.0,China,Chongqing,6,13,Bachelor's,0,0.22716366666666676
+E01870,Easton Moore,Computer systems manager,IT,Research & Development,Male,Caucasian,52,5/23/2013,99557,0.09,United States,Seattle,9,13,Bachelor's,1,0.16250733333333298
+E00044,Scarlett Jenkins,Vice president,IT,Research & Development,Female,Caucasian,53,11/9/2011,198473,0.32,United States,Miami,6,13,Bachelor's,2,0.18990119047619053
+E01363,Ayla Daniels,Technical architect,IT,Corporate,Female,Caucasian,53,4/23/1997,78153,0.0,United States,Miami,10,13,Bachelor's,3,0.30736685714285783
+E01638,Maria He,IT systems architect,IT,Corporate,Female,Asian,45,8/28/2010,82162,0.0,China,Beijing,6,13,Bachelor's,1,0.2143556666666665
+E03149,Layla Collins,IT systems architect,IT,Speciality Products,Female,Caucasian,26,3/11/2021,74170,0.0,United States,Austin,8,13,PhD,0,0.19947666666666689
+E02135,John Delgado,Cloud infrastructure architect,IT,Corporate,Male,Latino,30,2/11/2017,92058,0.0,United States,Austin,9,13,Bachelor's,2,0.1701966666666664
+E03484,Logan Rivera,Director,IT,Research & Development,Male,Latino,59,5/24/2002,172787,0.28,Brazil,Rio de Janerio,8,12,Master's,0,0.1409300000000002
+E00699,Ava Ayala,Sr. manger,IT,Corporate,Female,Latino,55,8/16/2006,159044,0.1,Brazil,Manaus,10,12,Master's,3,0.2870426666666677
+E03042,Ava Nelson,Systems analyst,IT,Manufacturing,Female,Caucasian,63,4/1/1992,53809,0.0,United States,Phoenix,10,12,Master's,0,0.25040385714285834
+E02094,Matthew Gupta,Network engineer,IT,Speciality Products,Male,Asian,45,9/18/2005,67686,0.0,China,Beijing,9,12,Bachelor's,2,0.18169333333333337
+E04112,Axel Chu,Systems analyst,IT,Research & Development,Male,Asian,43,5/4/2018,59888,0.0,China,Beijing,9,12,Bachelor's,2,0.18169333333333337
+E01132,Gabriella Johnson,Computer systems manager,IT,Research & Development,Female,Caucasian,42,3/1/2006,97433,0.05,United States,Seattle,9,12,Bachelor's,4,0.20097999999999971
+E01241,Hadley Guerrero,Sr. manger,IT,Research & Development,Female,Latino,49,1/14/2004,125086,0.1,Brazil,Sao Paulo,8,12,Bachelor's,2,0.17849666666666633
+E00465,Brooklyn Cho,Technical architect,IT,Manufacturing,Female,Asian,45,7/8/2002,92655,0.0,China,Chengdu,10,12,Bachelor's,4,0.2890113333333338
+E04323,Melody Valdez,Director,IT,Manufacturing,Female,Latino,28,1/25/2021,160385,0.23,United States,Miami,5,12,Bachelor's,0,0.23696738095238137
+E04174,Maverick Henry,Computer systems manager,IT,Research & Development,Male,Caucasian,26,7/10/2019,69110,0.05,United States,Chicago,5,12,Bachelor's,0,0.23696738095238137
+E01249,Penelope Guerrero,Vice president,IT,Speciality Products,Female,Latino,43,8/4/2009,208415,0.35,United States,Seattle,7,12,Bachelor's,1,0.2916099999999982
+E04109,Leah Bryant,IT coordinator,IT,Manufacturing,Female,Caucasian,55,4/30/2004,40124,0.0,United States,Austin,5,12,Bachelor's,1,0.2762078095238103
+E00592,Josephine Richardson,System administrator,IT,Manufacturing,Female,Caucasian,57,2/18/1996,75354,0.0,United States,Austin,9,12,Bachelor's,4,0.20097999999999971
+E03296,Eloise Trinh,Solutions architect,IT,Speciality Products,Female,Asian,39,4/22/2020,90535,0.0,United States,Miami,8,12,Master's,4,0.2848679999999985
+E01540,Miles Salazar,IT coordinator,IT,Manufacturing,Male,Latino,36,12/23/2010,53215,0.0,Brazil,Sao Paulo,10,11,Bachelor's,2,0.25495599999999985
+E03890,Everett Khan,Solutions architect,IT,Manufacturing,Male,Asian,43,1/18/2017,86417,0.0,United States,Chicago,10,11,Bachelor's,1,0.23117133333333348
+E03583,Kayden Jordan,Cloud infrastructure architect,IT,Research & Development,Male,Caucasian,48,9/14/2010,99335,0.0,UAE,Abu Dhabi,9,11,Master's,0,0.06464
+E02848,Lincoln Huynh,System administrator,IT,Research & Development,Male,Asian,55,11/9/2016,87851,0.0,China,Chongqing,6,11,Bachelor's,2,0.1558842857142855
+E00691,Avery Yee,Systems analyst,IT,Manufacturing,Female,Asian,34,5/22/2016,44614,0.0,United States,Miami,10,11,PhD,3,0.2506640000000002
+E01403,Xavier Park,Vice president,IT,Research & Development,Male,Asian,40,11/8/2020,234469,0.31,China,Chengdu,9,11,Master's,3,0.26044400000000173
+E02681,Caroline Owens,Director,IT,Speciality Products,Female,Caucasian,26,7/26/2021,151108,0.22,United States,Phoenix,7,11,PhD,2,0.20748199999999997
+E04784,Joshua Lin,Technical architect,IT,Research & Development,Male,Asian,37,2/5/2016,80055,0.0,China,Beijing,7,11,Bachelor's,0,0.20990833333333422
+E00099,Brooklyn Salazar,IT systems architect,IT,Manufacturing,Female,Latino,44,3/1/2011,82462,0.0,United States,Austin,9,11,Bachelor's,3,0.24941566666666615
+E04114,Christopher Lim,Director,IT,Research & Development,Male,Asian,55,3/13/2007,184648,0.24,China,Shanghai,8,11,Bachelor's,0,0.09442452380952396
+E01995,Jonathan Ho,Vice president,IT,Manufacturing,Male,Asian,37,6/25/2011,221592,0.31,United States,Columbus,9,11,Master's,2,0.23539285714285801
+E01591,Paisley Trinh,Technical architect,IT,Corporate,Female,Asian,57,5/4/1992,76202,0.0,United States,Austin,8,11,Bachelor's,3,0.1868184285714289
+E03626,Nicholas Avila,Enterprise architect,IT,Research & Development,Male,Latino,28,9/28/2017,97336,0.0,United States,Austin,10,11,Bachelor's,0,0.1989153333333334
+E03694,Eli Reed,Systems analyst,IT,Corporate,Male,Caucasian,51,2/27/2014,53929,0.0,United States,Miami,7,11,Bachelor's,1,0.2011799999999997
+E01834,Chloe Allen,Solutions architect,IT,Manufacturing,Female,Caucasian,64,7/8/2004,77903,0.0,United States,Seattle,7,11,Bachelor's,0,0.20990833333333422
+E04978,Peyton Harris,Enterprise architect,IT,Research & Development,Female,Caucasian,45,4/5/2009,64505,0.0,United States,Miami,6,11,Master's,0,0.17554666666666693
+E03680,Elias Alvarado,Sr. manger,IT,Manufacturing,Male,Latino,56,1/9/2012,146140,0.1,Brazil,Manaus,7,10,Bachelor's,2,0.17841333333333306
+E02331,Sophia Huynh,Enterprise architect,IT,Manufacturing,Female,Asian,55,8/9/2005,92771,0.0,United States,Miami,7,10,Master's,1,0.16198933333333324
+E01499,Liam Jordan,Computer systems manager,IT,Manufacturing,Male,Caucasian,28,8/8/2020,73255,0.09,UAE,Abu Dhabi,6,10,Bachelor's,1,0.17097399999999946
+E00521,Lily Carter,Network architect,IT,Research & Development,Female,Caucasian,54,5/18/1998,68268,0.0,United States,Phoenix,5,10,Master's,0,0.24462004761904788
+E01986,Wesley Sharma,Manager,IT,Corporate,Male,Asian,51,2/23/1994,122802,0.05,China,Shanghai,7,10,Bachelor's,1,0.194576666666666
+E01070,Grayson Brown,Vice president,IT,Corporate,Male,Caucasian,38,6/22/2016,249870,0.34,United States,Chicago,10,10,Bachelor's,2,0.24363466666666603
+E04567,Madeline Hoang,Systems analyst,IT,Research & Development,Female,Asian,28,10/25/2019,50111,0.0,China,Chengdu,6,10,Bachelor's,3,0.18385199999999952
+E03166,Austin Edwards,IT coordinator,IT,Manufacturing,Male,Black,42,9/24/2006,52733,0.0,United States,Chicago,7,10,Master's,1,0.16198933333333324
+E04546,Jade Hunter,Cloud infrastructure architect,IT,Corporate,Female,Caucasian,42,2/5/2020,96636,0.0,United States,Columbus,5,10,Master's,0,0.24462004761904788
+E03616,Josiah Lewis,Manager,IT,Research & Development,Male,Caucasian,46,8/11/2021,127559,0.1,United States,Austin,9,10,Master's,1,0.1040549999999995
+E03371,Jack Alexander,Vice president,IT,Manufacturing,Male,Caucasian,56,5/29/2006,228822,0.36,United States,Miami,9,10,Bachelor's,0,0.09816499999999977
+E04756,Aiden Le,Cloud infrastructure architect,IT,Corporate,Male,Asian,55,12/24/1994,99774,0.0,United States,Austin,5,10,Bachelor's,3,0.2339980000000004
+E04491,Nathan Chan,Cloud infrastructure architect,IT,Corporate,Male,Asian,45,3/2/2000,91276,0.0,United States,Seattle,10,10,Bachelor's,2,0.24363466666666603
+E04170,Grayson Chin,Vice president,IT,Research & Development,Male,Asian,26,5/9/2020,256561,0.39,United States,Austin,7,10,Bachelor's,2,0.17841333333333306
+E01519,Anthony Marquez,Vice president,IT,Speciality Products,Male,Latino,54,8/15/2009,241083,0.39,United States,Columbus,9,10,Bachelor's,1,0.1557596666666666
+E03248,Lyla Stewart,Sr. manger,IT,Speciality Products,Female,Caucasian,43,3/27/2015,120321,0.12,United States,Austin,10,10,Bachelor's,2,0.24363466666666603
+E01898,Oliver Moua,IT systems architect,IT,Corporate,Male,Asian,29,6/28/2021,71234,0.0,United States,Seattle,10,10,Bachelor's,1,0.22438599999999995
+E03902,Madison Hunter,Network administrator,IT,Corporate,Female,Caucasian,40,2/5/2012,61523,0.0,United States,Columbus,8,10,Bachelor's,3,0.15768700000000024
+E02283,Jaxon Park,Network architect,IT,Manufacturing,Male,Asian,33,7/24/2020,69453,0.0,China,Chengdu,7,9,Bachelor's,3,0.188395000000001
+E04572,Jade Li,Director,IT,Speciality Products,Female,Asian,47,10/26/2012,183156,0.3,United States,Seattle,9,9,Master's,1,0.12858766666666627
+E01351,Leo Owens,Systems analyst,IT,Corporate,Male,Caucasian,47,4/23/2020,50069,0.0,United States,Seattle,5,9,Bachelor's,2,0.23805200000000012
+E04290,Hannah Gomez,Technical architect,IT,Manufacturing,Female,Latino,25,5/11/2021,83934,0.0,United States,Miami,10,9,Master's,0,0.16172802380952417
+E00401,Wesley Adams,System administrator,IT,Corporate,Male,Caucasian,48,8/11/2003,93017,0.0,United States,Seattle,5,9,Bachelor's,3,0.2530170000000002
+E00747,Leilani Baker,Technical architect,IT,Speciality Products,Female,Caucasian,59,4/4/2010,76027,0.0,United States,Seattle,8,9,Bachelor's,0,0.1357911904761901
+E01103,Lyla Alvarez,IT systems architect,IT,Research & Development,Female,Latino,55,8/30/1994,73955,0.0,United States,Phoenix,9,9,Bachelor's,3,0.21107466666666538
+E00555,Sofia Trinh,Network architect,IT,Speciality Products,Female,Asian,45,12/18/2006,68337,0.0,China,Chongqing,5,9,Bachelor's,2,0.23805200000000012
+E00639,Benjamin Mai,System administrator,IT,Corporate,Male,Asian,54,6/15/1998,95239,0.0,UAE,Abu Dhabi,5,9,Bachelor's,0,0.1327126190476187
+E01722,Asher Huynh,Manager,IT,Manufacturing,Male,Asian,45,1/22/2015,101288,0.1,UAE,Abu Dhabi,10,9,Bachelor's,4,0.2243209999999995
+E04105,Theodore Dinh,Technical architect,IT,Manufacturing,Male,Asian,59,11/29/1997,99975,0.0,China,Chongqing,10,8,Bachelor's,2,0.24103466666666568
+E04285,Riley Padilla,Technical architect,IT,Manufacturing,Female,Latino,35,5/15/2013,78940,0.0,United States,Miami,6,8,Bachelor's,3,0.15254666666666614
+E03574,John Moore,Vice president,IT,Speciality Products,Male,Caucasian,52,11/8/2005,199808,0.32,United States,Seattle,5,8,Bachelor's,2,0.20884266666666648
+E02862,Peyton Huang,Sr. manger,IT,Manufacturing,Female,Asian,25,7/2/2021,125633,0.11,China,Beijing,7,8,Bachelor's,3,0.16616666666666693
+E00306,Mateo Williams,Enterprise architect,IT,Manufacturing,Male,Caucasian,40,1/22/2011,97339,0.0,United States,Austin,6,8,Bachelor's,0,0.1291749999999999
+E00085,Mason Watson,Sr. manger,IT,Corporate,Male,Caucasian,46,9/14/2004,130274,0.11,United States,Chicago,10,8,Master's,0,0.20509773809523796
+E01037,Jeremiah Chu,IT systems architect,IT,Research & Development,Male,Asian,31,9/12/2020,96567,0.0,China,Shanghai,6,8,Bachelor's,0,0.1291749999999999
+E00233,Brooklyn Reyes,Service desk analyst,IT,Manufacturing,Female,Latino,36,12/19/2019,91954,0.0,United States,Columbus,6,8,Bachelor's,1,0.14272199999999985
+E03474,Violet Hall,Solutions architect,IT,Corporate,Female,Caucasian,40,12/10/2010,97807,0.0,United States,Chicago,7,8,Bachelor's,2,0.1631399999999996
+E04041,Clara Huynh,IT coordinator,IT,Speciality Products,Female,Asian,39,11/18/2020,48415,0.0,China,Shanghai,5,8,Bachelor's,0,0.09570100000000019
+E03278,Nevaeh James,Solutions architect,IT,Speciality Products,Female,Caucasian,45,11/3/2017,66660,0.0,United States,Austin,6,8,Bachelor's,2,0.12214000000000011
+E03595,Christopher Howard,Enterprise architect,IT,Speciality Products,Male,Caucasian,61,8/26/2019,75780,0.0,United States,Seattle,6,8,Master's,0,0.26057433333333396
+E01417,Leah Pena,Enterprise architect,IT,Corporate,Female,Latino,57,1/3/1994,82872,0.0,Brazil,Manaus,10,7,Master's,3,0.27832833333333246
+E03830,Madison Her,Technical architect,IT,Speciality Products,Female,Asian,56,6/22/1996,82806,0.0,United States,Seattle,7,7,Bachelor's,3,0.14804833333333323
+E03269,Charlotte Chu,Network engineer,IT,Manufacturing,Female,Asian,50,1/23/2001,97537,0.0,China,Chengdu,7,7,Bachelor's,0,0.2071240000000012
+E02747,Kinsley Acosta,Vice president,IT,Speciality Products,Female,Latino,32,7/22/2020,192749,0.31,United States,Chicago,5,7,Bachelor's,0,0.11727899999999974
+E03941,Isla Han,Technical architect,IT,Manufacturing,Female,Asian,58,6/18/2005,86089,0.0,United States,Chicago,9,7,Bachelor's,0,0.23988133333333478
+E04529,Gabriel Yu,Technical architect,IT,Speciality Products,Male,Asian,42,6/23/2014,64677,0.0,China,Chongqing,5,7,Bachelor's,2,0.19168666666666623
+E02313,Jeremiah Lu,Network architect,IT,Manufacturing,Male,Asian,50,3/6/2001,73907,0.0,China,Shanghai,7,7,Bachelor's,4,0.09727333333333325
+E02917,Everett Morales,Solutions architect,IT,Speciality Products,Male,Latino,57,7/10/2014,66649,0.0,Brazil,Rio de Janerio,7,7,Bachelor's,2,0.17501733333333316
+E00593,Luke Wilson,Solutions architect,IT,Speciality Products,Male,Caucasian,34,5/24/2016,94352,0.0,United States,Miami,8,7,Bachelor's,0,0.1689506666666672
+E04087,Adam Kaur,Manager,IT,Corporate,Male,Asian,60,1/29/2000,109059,0.07,China,Chengdu,6,7,Bachelor's,2,0.1437866666666663
+E01927,Charles Moore,Technical architect,IT,Manufacturing,Male,Black,34,2/16/2016,63411,0.0,United States,Miami,9,7,Bachelor's,2,0.24375866666666582
+E03928,Miles Dang,IT coordinator,IT,Speciality Products,Male,Asian,61,9/24/2000,40063,0.0,United States,Miami,6,7,Master's,0,0.30366509523809626
+E00862,Levi Moreno,Systems analyst,IT,Research & Development,Male,Latino,64,6/27/2020,40316,0.0,Brazil,Manaus,7,7,PhD,2,0.2006743333333331
+E00126,Isabella Scott,Network administrator,IT,Research & Development,Female,Caucasian,58,4/26/2016,72045,0.0,United States,Phoenix,9,7,Bachelor's,1,0.26389114285714266
+E01578,Anthony Hong,Sr. manger,IT,Research & Development,Male,Asian,37,11/29/2010,146961,0.11,United States,Columbus,6,7,Bachelor's,2,0.1437866666666663
+E00697,Jonathan Chavez,System administrator,IT,Manufacturing,Male,Latino,29,5/11/2017,87536,0.0,United States,Seattle,7,6,Bachelor's,1,0.23523666666666798
+E03935,Cora Jiang,Vice president,IT,Corporate,Female,Asian,53,4/30/2008,182202,0.3,United States,Austin,10,6,Bachelor's,2,0.19095999999999919
+E03268,Everly Coleman,Vice president,IT,Corporate,Female,Caucasian,48,2/18/2015,194871,0.35,United States,Columbus,9,6,Bachelor's,1,0.28203
+E00836,Addison Roberts,Network architect,IT,Manufacturing,Female,Caucasian,65,5/14/2018,60985,0.0,United States,Seattle,6,6,Bachelor's,3,0.11322000000000013
+E02023,Maverick Mehta,Systems analyst,IT,Manufacturing,Male,Asian,40,7/30/2007,41859,0.0,United States,Seattle,5,6,PhD,1,0.13134000000000043
+E04217,Lydia Williams,System administrator,IT,Manufacturing,Female,Black,35,10/29/2014,91592,0.0,United States,Chicago,10,6,Bachelor's,0,0.23655666666666592
+E00436,Lincoln Reyes,Computer systems manager,IT,Manufacturing,Male,Latino,60,8/3/1998,85120,0.09,United States,Seattle,8,6,Bachelor's,4,0.29288266666666574
+E00319,Ezra Wilson,Service desk analyst,IT,Manufacturing,Male,Caucasian,55,10/18/2013,70334,0.0,United States,Miami,5,6,Bachelor's,1,0.11938666666666632
+E04123,Andrew Holmes,Vice president,IT,Speciality Products,Male,Black,59,12/30/2010,246619,0.36,United States,Miami,10,6,Bachelor's,4,0.17028833333333343
+E01125,Joshua Yang,Network engineer,IT,Manufacturing,Male,Asian,34,11/10/2018,61944,0.0,China,Shanghai,10,6,Bachelor's,0,0.23655666666666592
+E03691,Colton Garcia,Solutions architect,IT,Speciality Products,Male,Latino,55,11/17/1993,80170,0.0,United States,Miami,9,6,Master's,4,0.11929733333333342
+E00481,Jameson Nelson,Network architect,IT,Research & Development,Male,Caucasian,61,3/8/2016,96566,0.0,United States,Columbus,7,6,Bachelor's,3,0.14174000000000028
+E00304,Dylan Choi,Vice president,IT,Corporate,Male,Asian,63,5/11/2012,231141,0.34,China,Beijing,10,5,Master's,4,0.09533999999999995
+E00431,Eliza Hernandez,Network architect,IT,Corporate,Female,Latino,48,7/4/2019,76588,0.0,Brazil,Rio de Janerio,10,5,Bachelor's,1,0.18959666666666658
+E01064,Clara Kang,Sr. manger,IT,Manufacturing,Female,Asian,39,3/25/2017,135325,0.14,United States,Phoenix,7,5,Master's,1,0.1614153333333333
+E04387,Everleigh White,Network architect,IT,Speciality Products,Female,Caucasian,59,10/20/2017,86831,0.0,United States,Phoenix,8,5,Bachelor's,0,0.08717666666666625
+E04466,Connor Bell,Network administrator,IT,Corporate,Male,Black,54,4/1/2000,76352,0.0,United States,Austin,10,5,Bachelor's,4,0.1488016666666674
+E04925,Athena Jordan,System administrator,IT,Manufacturing,Female,Black,42,2/19/2011,72486,0.0,United States,Seattle,10,5,Master's,2,0.2132933333333328
+E04048,Julian Lee,IT systems architect,IT,Corporate,Male,Asian,51,1/17/2003,91399,0.0,United States,Seattle,9,5,Bachelor's,1,0.2759753333333335
+E00494,Robert Alvarez,Service desk analyst,IT,Corporate,Male,Latino,39,10/21/2016,84297,0.0,Brazil,Manaus,7,5,Bachelor's,3,0.05242000000000026
+E01895,Gabriel Zhou,IT coordinator,IT,Manufacturing,Male,Asian,25,1/17/2021,41844,0.0,China,Chongqing,9,5,Bachelor's,4,0.18460666666666747
+E03417,Benjamin Moua,Computer systems manager,IT,Manufacturing,Male,Asian,40,7/2/2007,93971,0.08,China,Chongqing,7,4,Bachelor's,1,0.2413399999999999
+E03328,Lucy Johnson,Manager,IT,Research & Development,Female,Caucasian,57,4/27/2020,103058,0.07,United States,Columbus,9,4,PhD,4,0.16780733333333345
+E03255,Jose Brown,System administrator,IT,Speciality Products,Male,Caucasian,43,4/7/2016,67976,0.0,United States,Seattle,8,4,Bachelor's,1,0.1896949999999997
+E00632,Angel Chang,Network architect,IT,Research & Development,Male,Asian,37,7/6/2017,96331,0.0,China,Shanghai,10,4,Bachelor's,1,0.17607000000000067
+E03540,Emma Perry,Solutions architect,IT,Manufacturing,Female,Caucasian,28,1/22/2018,68176,0.0,United States,Seattle,5,4,Bachelor's,0,0.20568866666666652
+E01423,James Castillo,Vice president,IT,Manufacturing,Male,Latino,51,7/19/2001,247874,0.33,Brazil,Manaus,10,4,Bachelor's,0,0.17094000000000045
+E01366,William Walker,Computer systems manager,IT,Research & Development,Male,Black,40,2/24/2019,95899,0.1,United States,Columbus,10,4,Bachelor's,1,0.17607000000000067
+E02440,Grayson Turner,Solutions architect,IT,Corporate,Male,Caucasian,54,6/30/1992,63196,0.0,United States,Chicago,7,4,PhD,0,0.2059850000000011
+E01649,Eva Alvarado,Computer systems manager,IT,Manufacturing,Female,Latino,46,4/24/2017,77461,0.09,Brazil,Sao Paulo,10,4,Bachelor's,2,0.17302000000000053
+E02005,Isabella Bui,Enterprise architect,IT,Manufacturing,Female,Asian,36,11/21/2014,97500,0.0,United States,Miami,6,4,Bachelor's,1,0.3158599999999989
+E04380,Naomi Washington,Manager,IT,Speciality Products,Female,Caucasian,51,3/13/2020,107195,0.09,United States,Austin,10,4,Master's,0,0.15731733333333334
+E02217,William Phillips,Network architect,IT,Corporate,Male,Black,61,1/27/2004,88478,0.0,United States,Austin,7,4,Bachelor's,2,0.23268666666666626
+E03519,Eliza Zheng,Computer systems manager,IT,Speciality Products,Female,Asian,48,4/20/2014,91679,0.07,China,Chongqing,5,4,Bachelor's,3,0.13723999999999975
+E00559,Penelope Silva,Network architect,IT,Speciality Products,Female,Latino,36,11/3/2016,94618,0.0,United States,Columbus,7,4,Bachelor's,1,0.2413399999999999
+E02832,Penelope Jordan,Computer systems manager,IT,Manufacturing,Female,Caucasian,26,9/27/2019,84913,0.07,United States,Chicago,8,3,Bachelor's,2,0.21577466666666617
+E04903,Skylar Liu,Director,IT,Research & Development,Female,Asian,29,8/9/2020,161203,0.15,China,Chengdu,10,3,Master's,4,0.14879200000000034
+E01484,Anna Zhu,Service desk analyst,IT,Manufacturing,Female,Asian,48,8/22/2003,82017,0.0,China,Beijing,7,3,Bachelor's,2,0.246553333333334
+E04816,Jace Zhang,Service desk analyst,IT,Speciality Products,Male,Asian,31,2/14/2017,95963,0.0,China,Chengdu,6,3,Master's,0,0.23440273809523685
+E03854,Camila Li,Sr. manger,IT,Research & Development,Female,Asian,60,7/24/2010,126911,0.1,China,Shanghai,6,3,Bachelor's,4,0.2755939999999998
+E00344,Savannah He,Director,IT,Research & Development,Female,Asian,52,2/14/1996,159724,0.23,China,Beijing,10,3,Master's,1,0.1759116666666668
+E00965,Jacob Khan,Computer systems manager,IT,Speciality Products,Male,Asian,53,2/9/2008,84193,0.09,China,Shanghai,6,3,Bachelor's,3,0.1493799999999995
+E00784,Ella Nguyen,Service desk analyst,IT,Corporate,Female,Asian,60,2/10/2004,90258,0.0,China,Chongqing,10,3,Master's,0,0.15936566666666657
+E02903,Robert Vazquez,System administrator,IT,Corporate,Male,Latino,40,9/26/2021,87770,0.0,United States,Austin,6,3,Bachelor's,2,0.22510333333333354
+E00287,Maverick Figueroa,IT systems architect,IT,Corporate,Male,Latino,48,7/6/2008,94815,0.0,United States,Chicago,5,3,Bachelor's,1,0.14441899999999974
+E02576,Gianna Ha,Manager,IT,Research & Development,Female,Asian,55,2/8/2005,115145,0.05,China,Chongqing,5,3,Bachelor's,2,0.1575453333333334
+E03240,Aiden Silva,Vice president,IT,Research & Development,Male,Latino,42,11/29/2010,186725,0.32,Brazil,Manaus,8,3,Bachelor's,0,0.11662133333333266
+E02035,Eli Rahman,Service desk analyst,IT,Manufacturing,Male,Asian,45,3/16/2010,88182,0.0,China,Chengdu,5,3,Master's,3,0.17871333333333309
+E04089,Sebastian Fong,Sr. manger,IT,Manufacturing,Male,Asian,46,12/16/2017,136716,0.12,United States,Austin,5,3,Bachelor's,3,0.08568133333333303
+E03168,Nora Le,Sr. manger,IT,Manufacturing,Female,Asian,53,4/12/1997,154388,0.1,United States,Seattle,6,3,Bachelor's,3,0.1493799999999995
+E02387,Emily Davis,Sr. manger,IT,Research & Development,Female,Black,55,4/8/2016,141604,0.15,United States,Seattle,5,2,Master's,2,0.21402399999999944
+E01642,Mia Lam,Sr. manger,IT,Manufacturing,Female,Asian,49,4/18/2006,134486,0.14,United States,Austin,8,2,Bachelor's,1,0.26585999999999727
+E04267,Greyson Sanders,Cloud infrastructure architect,IT,Speciality Products,Male,Black,28,3/6/2019,90304,0.0,United States,Chicago,8,2,Master's,0,0.2523533333333332
+E04618,Mason Zhao,Technical architect,IT,Research & Development,Male,Asian,46,10/26/2021,94790,0.0,China,Chongqing,8,2,Bachelor's,4,0.1707876666666667
+E01378,Genesis Xiong,System administrator,IT,Research & Development,Female,Asian,51,2/25/2012,64170,0.0,United States,Columbus,7,2,Bachelor's,2,0.27878666666666774
+E03685,Silas Hunter,Solutions architect,IT,Corporate,Male,Black,55,5/4/1998,62174,0.0,United States,Chicago,10,2,Master's,2,0.20580999999999988
+E03881,Andrew Reed,System administrator,IT,Corporate,Male,Black,28,6/17/2019,65341,0.0,United States,Miami,8,2,Master's,3,0.17928166666666687
+E01724,Nolan Molina,Computer systems manager,IT,Corporate,Male,Latino,36,12/27/2020,70165,0.07,Brazil,Manaus,6,2,Master's,4,0.2815933333333341
+E04535,Charlotte Vo,System administrator,IT,Speciality Products,Female,Asian,57,1/10/2014,74854,0.0,United States,Seattle,9,2,Bachelor's,0,0.24947999999999884
+E03227,Eli Richardson,IT coordinator,IT,Speciality Products,Male,Caucasian,38,4/19/2015,48762,0.0,United States,Seattle,6,2,Bachelor's,1,0.16791000000000034
+E00035,Lillian Gonzales,Cloud infrastructure architect,IT,Manufacturing,Female,Latino,43,3/13/2009,62335,0.0,Brazil,Manaus,9,2,Master's,3,0.28621066666666745
+E03332,Ruby Sun,Cloud infrastructure architect,IT,Manufacturing,Female,Asian,50,9/6/2021,83418,0.0,China,Shanghai,5,2,Bachelor's,2,0.11938400000000012
+E02594,Ezekiel Kumar,IT coordinator,IT,Research & Development,Male,Asian,28,6/25/2017,54775,0.0,United States,Columbus,6,1,Bachelor's,1,0.1490106666666669
+E01258,Gabriel Brooks,Network engineer,IT,Manufacturing,Male,Caucasian,29,12/10/2018,84596,0.0,United States,Miami,8,1,Bachelor's,4,0.18635300000000024
+E00672,Landon Luu,Vice president,IT,Research & Development,Male,Asian,31,7/12/2015,215388,0.33,United States,Miami,7,1,Bachelor's,3,0.22978133333333395
+E02227,Sofia Parker,Cloud infrastructure architect,IT,Manufacturing,Female,Caucasian,36,5/30/2014,99080,0.0,United States,Chicago,7,1,Bachelor's,0,0.21677333333333276
+E03908,Miles Evans,Network architect,IT,Manufacturing,Male,Caucasian,54,10/24/1994,87216,0.0,United States,Miami,8,1,Bachelor's,3,0.2166493333333338
+E02971,Mia Wu,Enterprise architect,IT,Corporate,Female,Asian,45,8/25/2013,99169,0.0,China,Beijing,8,1,Bachelor's,1,0.22488933333333191
+E01479,Serenity Bailey,IT systems architect,IT,Manufacturing,Female,Caucasian,55,11/21/2011,81218,0.0,United States,Chicago,10,1,PhD,3,0.1884800000000006
+E01432,Peyton Garza,Systems analyst,IT,Manufacturing,Female,Latino,53,8/15/2004,44735,0.0,Brazil,Manaus,9,1,Bachelor's,4,0.1930466666666671
+E04547,Avery Grant,Enterprise architect,IT,Research & Development,Female,Caucasian,49,3/5/2014,88777,0.0,United States,Chicago,6,1,Bachelor's,1,0.1490106666666669
+E04697,Eleanor Williams,Enterprise architect,IT,Speciality Products,Female,Caucasian,61,2/9/2005,64462,0.0,United States,Chicago,7,1,Bachelor's,3,0.22978133333333395
+E03440,Genesis Navarro,Cloud infrastructure architect,IT,Corporate,Female,Latino,41,4/28/2009,69803,0.0,Brazil,Manaus,7,0,Bachelor's,3,0.21448800000000048
+E00443,Nolan Bui,Computer systems manager,IT,Research & Development,Male,Asian,28,5/26/2020,67925,0.08,China,Shanghai,6,0,Bachelor's,4,0.16441333333333305
+E02875,Madeline Shin,Computer systems manager,IT,Speciality Products,Female,Asian,48,1/9/2007,74546,0.09,United States,Seattle,5,0,Bachelor's,2,0.19643333333333315
+E00535,Nathan Mendez,Manager,IT,Speciality Products,Male,Latino,53,10/31/2006,120128,0.1,United States,Austin,7,0,Bachelor's,3,0.21448800000000048
+E00929,Allison Espinoza,Solutions architect,IT,Speciality Products,Female,Latino,45,4/16/2020,66958,0.0,United States,Miami,7,0,Master's,1,0.18672366666666726
+E02012,Anna Han,System administrator,IT,Research & Development,Female,Asian,65,5/8/2003,96548,0.0,United States,Austin,9,0,Bachelor's,2,0.3270480000000004
+E03870,Madeline Allen,Cloud infrastructure architect,IT,Manufacturing,Female,Caucasian,30,2/3/2020,94652,0.0,United States,Seattle,10,0,PhD,2,0.1977130000000002
+E02192,Lucy Avila,Solutions architect,IT,Speciality Products,Female,Latino,43,4/22/2010,76912,0.0,Brazil,Sao Paulo,6,0,Bachelor's,1,0.21831333333333316
+E02258,Eliza Chen,Enterprise architect,IT,Research & Development,Female,Asian,36,4/29/2016,75862,0.0,United States,Austin,7,0,Bachelor's,3,0.21448800000000048
+E04444,Brooklyn Ruiz,IT coordinator,IT,Manufacturing,Female,Latino,61,8/10/2014,57446,0.0,United States,Phoenix,6,0,Bachelor's,4,0.16441333333333305
+E04189,Ariana Kim,Network architect,IT,Manufacturing,Female,Asian,33,6/29/2014,96366,0.0,China,Chengdu,6,0,Bachelor's,0,0.21521666666666592
+E03455,Hadley Ford,Systems analyst,IT,Research & Development,Female,Caucasian,52,2/23/2005,45286,0.0,United States,Chicago,9,0,Master's,0,0.25128000000000006
+E04670,Angel Do,IT systems architect,IT,Speciality Products,Male,Asian,34,9/20/2019,94735,0.0,China,  Beijing  ,10,0,PhD,3,0.17056361904761916
+E02888,Elijah Ramos,Sr. manger,IT,Speciality Products,Male,Latino,33,12/24/2012,132544,0.1,Brazil,Rio de Janerio,9,0,Bachelor's,2,0.3270480000000004
